@@ -21,7 +21,7 @@ The project is divided into two phases:
 
 Two datasets from **Kaggle** are used.
 
-### 1️⃣ Match Dataset
+### 1️ Match Dataset
 - 2,311 recorded matches
 - For each match:
   - 8 cards for Player 1
